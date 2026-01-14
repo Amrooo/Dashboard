@@ -1,0 +1,7 @@
+{
+  "name": "Saaed AI Traffic Ops Dashboard",
+  "description": "A high-fidelity AI Operations dashboard for Saaed Traffic Systems, featuring accident reporting KPIs, channel matrix, and automation metrics with a sleek dark glassmorphism theme.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
